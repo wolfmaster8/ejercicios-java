@@ -40,7 +40,7 @@ public class TroncoCono
         
         volumen = ((altura*Math.PI)/3)*(Math.pow(radioSup, 2) + Math.pow(radioInf, 2) + radioInf*radioSup);
         
-        System.out.println("El volumen del tronco cono es: "+volumen+" unidades cuadradas");
+        System.out.println("El volumen del tronco cono es: "+volumen+" unidades cúbicas");
      
     }
 }
