@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=paseo
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=gordinhos\ fracos\ sillas
+comment2.target=int\ numerobuses(int,\ int,\ int)
+comment3.params=gordinhos\ fracos\ precioComida\ numDias
+comment3.target=int\ preciocomida(int,\ int,\ int,\ int)
+comment4.params=gordinhos\ fracos\ personasHabit
+comment4.target=int\ numerohabitaciones(int,\ int,\ int)
+numComments=5

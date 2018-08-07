@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=sapco
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=pasajeros\ valor
+comment2.target=int\ totalclase(int,\ int)
+numComments=3

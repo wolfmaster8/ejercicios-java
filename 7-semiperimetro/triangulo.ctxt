@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=triangulo
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b\ c
+comment2.target=double\ semiperimetro(double,\ double,\ double)
+comment3.params=s\ a\ b\ c
+comment3.target=double\ area(double,\ double,\ double,\ double)
+comment4.params=a\ b\ c\ area
+comment4.target=double\ circumradio(double,\ double,\ double,\ double)
+numComments=5
