@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Conversion
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=tipoMedida
+comment2.target=int\ errorOpciones(java.lang.String)
+comment3.params=entrada
+comment3.target=java.lang.String\ entradaOpciones(java.util.Scanner)
+numComments=4

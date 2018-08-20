@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AreaSombreada
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=radio
+comment2.target=double\ circulo(double)
+comment3.params=radio
+comment3.target=double\ cuadrado(double)
+numComments=4
