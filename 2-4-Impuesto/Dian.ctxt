@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dian
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=precioBruto\ impuesto
+comment2.target=int\ precios(int,\ int)
+comment3.params=precioNeto\ impuesto
+comment3.target=void\ fala(int,\ int)
+numComments=4

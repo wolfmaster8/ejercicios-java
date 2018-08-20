@@ -2,8 +2,8 @@
 comment0.target=Conversion
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
-comment2.params=tipoMedida
-comment2.target=int\ errorOpciones(java.lang.String)
-comment3.params=entrada
-comment3.target=java.lang.String\ entradaOpciones(java.util.Scanner)
+comment2.params=entrada
+comment2.target=java.lang.String\ entradaOpciones(java.util.Scanner)
+comment3.params=entrada\ tipoMedida\ razonConversion
+comment3.target=void\ conviertePulgadas(java.util.Scanner,\ java.lang.String,\ double)
 numComments=4
